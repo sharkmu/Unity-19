@@ -2,3 +2,4 @@
 This is a description
 
 Edit = módosítás
+2nd edit = második módosítás
